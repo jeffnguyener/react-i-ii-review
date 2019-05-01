@@ -4,15 +4,27 @@ Answer these on your own, then compare answers as a group
 
 1.  What is React?
 
+Is basically is an open-source JavaScript library which is used for building user interfaces specifically for single page applications. It's used for handling view layer for web and mobile apps. React also allows us to create reusable UI components
+
 2.  What is create-react-app?
+
+Create React App is a tool (built by developers at Facebook) that gives you a massive head start when building React apps. It saves you from time-consuming setup and configuration. You simply run one command and Create React App sets up the tools you need to start your React project.
 
 3.  What is Component Based Architecture?
 
+Is a method for encapsulating individual pieces of a larger user interface (aka components) into self-sustaining, independent micro-systems. 
+
 4.  What is JSX?
+
+it is a syntax extension to JavaScript, is neither a string nor HTML.
 
 5.  What is the virtual DOM?
 
+is a programming concept where an ideal, or “virtual”, representation of a UI is kept in memory and synced with the “real” DOM by a library such as ReactDOM. This process is called reconciliation.
+
 6.  What is unidirectional (one-way) data flow?
+
+it is one-way data-binding, means that all data in an application follows the same lifecycle pattern.
 
 ### Understand
 
