@@ -4,9 +4,16 @@ Answer these on your own, then compare answers as a group
 
 1.  What is state?
 
+What is state? The heart of every React component is its “state”, an object that determines how that component renders & behaves. In other words, “state” is what allows you to create components that are dynamic and interactive.
+
 2.  Where do you set initial state?
 
+There are two ways to initialize state in a React component: inside the constructor, and directly inside the class.
+
 3.  What method do you use to update state?
+
+State Updates May Be Asynchronous. React may batch multiple setState() calls into a single update for performance. Because this.props and this.state may be updated asynchronously, you should not rely on their values for calculating the next state.
+
 
 ### Understand
 
